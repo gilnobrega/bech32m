@@ -4,7 +4,7 @@ description: Library implementing Bitcoins BIP350 (Bech32m encoding) specificati
 homepage: https://github.com/joaquimguimaraes/bech32m
 
 dependencies:
-    convert: '>=1.0.0 <3.1.0'
+    convert: '>=1.0.0 <3.1.1'
     hex: ^0.2.0
 
 dev_dependencies:
